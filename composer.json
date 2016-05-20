@@ -1,0 +1,40 @@
+{
+    "name": "spicyhost/yii2-asset-spicyhost",
+    "type": "yii2-extension",
+    "description": "SpicyHost asset files: images, configs and more",
+    "keywords": [
+        "spicyhost",
+        "asset",
+        "extension",
+        "yii2"
+    ],
+    "homepage": "https://github.com/spicyhost/yii2-asset-spicyhost",
+    "license": "No license",
+    "support": {
+        "email": "support@spicyhost.com",
+        "source": "https://github.com/spicyhost/yii2-asset-spicyhost",
+        "issues": "https://github.com/spicyhost/yii2-asset-spicyhost/issues",
+        "wiki": "https://github.com/spicyhost/yii2-asset-spicyhost/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "require-dev": {
+        "hiqdev/hidev-php": "<2.0",
+        "spicyhost/hidev-vendor": "*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "spicyhost\\assets\\spicyhost\\": "src"
+        }
+    },
+    "extra": {
+        "config-plugin": {
+            "params": "src/config/params.php"
+        }
+    }
+}
