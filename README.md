@@ -13,7 +13,8 @@ SpicyHost assets
 
 This package provides assets shareable between different SpicyHost projects:
 
-- logos and css bundled with yii2 asset bundle
+- favicon.ico
+- logo and css bundled with yii2 asset bundle
 - config settings
 - translations
 
