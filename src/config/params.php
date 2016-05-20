@@ -10,7 +10,7 @@
  */
 
 return [
-    'orgName'      => 'SpicyHost',
+    'orgName'      => 'Spicy Host',
     'orgUrl'       => 'https://spicyhost.com/',
     'supportEmail' => 'support@spicyhost.com',
     'adminEmail'   => 'support@spicyhost.com',
