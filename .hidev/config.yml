@@ -1,12 +1,13 @@
 package:
     type:           yii2-extension
     name:           yii2-asset-spicyhost
-    title:          'SpicyHost asset files: images, configs and more'
+    title:          'Spicy Host asset files: images, configs and more'
     headline:       SpicyHost assets
     keywords:       spicyhost, asset, extension, yii2
     namespace:      spicyhost\assets\spicyhost
     description:    |
-        [SpicyHost](https://spicyhost.com) is a domain registrator.
+        [Spicy Host](https://spicyhost.com) provides a superior hosting solution,
+        based upon quality hosting and support.
 
         This package provides assets shareable between different SpicyHost projects:
 
